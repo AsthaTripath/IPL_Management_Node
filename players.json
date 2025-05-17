@@ -1,0 +1,399 @@
+[
+  {
+    "name": "Virat Kohli",
+    "team": "RCB",
+    "country": "India",
+    "runs": 6000,
+    "image": "https://linktoimage.com/kohli.jpg",
+    "role": "Batsman",
+    "salary": 150000000
+  },
+  {
+    "name": "Rohit Sharma",
+    "team": "MI",
+    "country": "India",
+    "runs": 5200,
+    "image": "https://linktoimage.com/rohit.jpg",
+    "role": "Batsman",
+    "salary": 160000000
+  },
+  {
+    "name": "MS Dhoni",
+    "team": "CSK",
+    "country": "India",
+    "runs": 5000,
+    "image": "https://linktoimage.com/dhoni.jpg",
+    "role": "Wicketkeeper",
+    "salary": 150000000
+  },
+  {
+    "name": "Hardik Pandya",
+    "team": "GT",
+    "country": "India",
+    "runs": 1700,
+    "image": "https://linktoimage.com/hardik.jpg",
+    "role": "All-rounder",
+    "salary": 130000000
+  },
+  {
+    "name": "Rishabh Pant",
+    "team": "DC",
+    "country": "India",
+    "runs": 2800,
+    "image": "https://linktoimage.com/pant.jpg",
+    "role": "Wicketkeeper",
+    "salary": 140000000
+  },
+  {
+    "name": "KL Rahul",
+    "team": "LSG",
+    "country": "India",
+    "runs": 4000,
+    "image": "https://linktoimage.com/rahul.jpg",
+    "role": "Batsman",
+    "salary": 135000000
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "team": "MI",
+    "country": "India",
+    "runs": 100,
+    "image": "https://linktoimage.com/bumrah.jpg",
+    "role": "Bowler",
+    "salary": 120000000
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "team": "MI",
+    "country": "India",
+    "runs": 2900,
+    "image": "https://linktoimage.com/suryakumar.jpg",
+    "role": "Batsman",
+    "salary": 110000000
+  },
+  {
+    "name": "Shubman Gill",
+    "team": "GT",
+    "country": "India",
+    "runs": 2600,
+    "image": "https://linktoimage.com/gill.jpg",
+    "role": "Batsman",
+    "salary": 100000000
+  },
+  {
+    "name": "David Warner",
+    "team": "DC",
+    "country": "Australia",
+    "runs": 5600,
+    "image": "https://linktoimage.com/warner.jpg",
+    "role": "Batsman",
+    "salary": 125000000
+  },
+  {
+    "name": "Faf du Plessis",
+    "team": "RCB",
+    "country": "South Africa",
+    "runs": 3600,
+    "image": "https://linktoimage.com/faf.jpg",
+    "role": "Batsman",
+    "salary": 100000000
+  },
+  {
+    "name": "Andre Russell",
+    "team": "KKR",
+    "country": "West Indies",
+    "runs": 1700,
+    "image": "https://linktoimage.com/russell.jpg",
+    "role": "All-rounder",
+    "salary": 120000000
+  },
+  {
+    "name": "Sunil Narine",
+    "team": "KKR",
+    "country": "West Indies",
+    "runs": 1000,
+    "image": "https://linktoimage.com/narine.jpg",
+    "role": "All-rounder",
+    "salary": 110000000
+  },
+  {
+    "name": "Kane Williamson",
+    "team": "GT",
+    "country": "New Zealand",
+    "runs": 2300,
+    "image": "https://linktoimage.com/kane.jpg",
+    "role": "Batsman",
+    "salary": 105000000
+  },
+  {
+    "name": "Shreyas Iyer",
+    "team": "KKR",
+    "country": "India",
+    "runs": 2200,
+    "image": "https://linktoimage.com/iyer.jpg",
+    "role": "Batsman",
+    "salary": 95000000
+  },
+  {
+    "name": "Axar Patel",
+    "team": "DC",
+    "country": "India",
+    "runs": 1100,
+    "image": "https://linktoimage.com/axar.jpg",
+    "role": "All-rounder",
+    "salary": 98000000
+  },
+  {
+    "name": "Mohammed Shami",
+    "team": "GT",
+    "country": "India",
+    "runs": 200,
+    "image": "https://linktoimage.com/shami.jpg",
+    "role": "Bowler",
+    "salary": 99000000
+  },
+  {
+    "name": "Deepak Chahar",
+    "team": "CSK",
+    "country": "India",
+    "runs": 300,
+    "image": "https://linktoimage.com/chahar.jpg",
+    "role": "Bowler",
+    "salary": 97000000
+  },
+  {
+    "name": "Dinesh Karthik",
+    "team": "RCB",
+    "country": "India",
+    "runs": 4100,
+    "image": "https://linktoimage.com/karthik.jpg",
+    "role": "Wicketkeeper",
+    "salary": 102000000
+  },
+  ,
+  {
+    "name": "Trent Boult",
+    "team": "RR",
+    "country": "New Zealand",
+    "runs": 85,
+    "image": "https://linktoimage.com/boult.jpg",
+    "role": "Bowler",
+    "salary": 80000000
+  },
+  {
+    "name": "Ben Stokes",
+    "team": "CSK",
+    "country": "England",
+    "runs": 920,
+    "image": "https://linktoimage.com/stokes.jpg",
+    "role": "All-rounder",
+    "salary": 125000000
+  },
+  {
+    "name": "Moeen Ali",
+    "team": "CSK",
+    "country": "England",
+    "runs": 1000,
+    "image": "https://linktoimage.com/moeen.jpg",
+    "role": "All-rounder",
+    "salary": 95000000
+  },
+  {
+    "name": "Rahul Tewatia",
+    "team": "GT",
+    "country": "India",
+    "runs": 700,
+    "image": "https://linktoimage.com/tewatia.jpg",
+    "role": "All-rounder",
+    "salary": 60000000
+  },
+  {
+    "name": "Varun Chakravarthy",
+    "team": "KKR",
+    "country": "India",
+    "runs": 45,
+    "image": "https://linktoimage.com/varun.jpg",
+    "role": "Bowler",
+    "salary": 70000000
+  },
+  {
+    "name": "Sam Curran",
+    "team": "PBKS",
+    "country": "England",
+    "runs": 850,
+    "image": "https://linktoimage.com/curran.jpg",
+    "role": "All-rounder",
+    "salary": 180000000
+  },
+  {
+    "name": "Liam Livingstone",
+    "team": "PBKS",
+    "country": "England",
+    "runs": 1100,
+    "image": "https://linktoimage.com/livingstone.jpg",
+    "role": "All-rounder",
+    "salary": 105000000
+  },
+  {
+    "name": "Arshdeep Singh",
+    "team": "PBKS",
+    "country": "India",
+    "runs": 60,
+    "image": "https://linktoimage.com/arshdeep.jpg",
+    "role": "Bowler",
+    "salary": 75000000
+  },
+  {
+    "name": "Avesh Khan",
+    "team": "LSG",
+    "country": "India",
+    "runs": 35,
+    "image": "https://linktoimage.com/avesh.jpg",
+    "role": "Bowler",
+    "salary": 60000000
+  },
+  {
+    "name": "Mark Wood",
+    "team": "LSG",
+    "country": "England",
+    "runs": 20,
+    "image": "https://linktoimage.com/wood.jpg",
+    "role": "Bowler",
+    "salary": 95000000
+  },
+  {
+    "name": "Washington Sundar",
+    "team": "SRH",
+    "country": "India",
+    "runs": 450,
+    "image": "https://linktoimage.com/sundar.jpg",
+    "role": "All-rounder",
+    "salary": 78000000
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "team": "SRH",
+    "country": "India",
+    "runs": 240,
+    "image": "https://linktoimage.com/bhuvi.jpg",
+    "role": "Bowler",
+    "salary": 85000000
+  },
+  {
+    "name": "Mayank Agarwal",
+    "team": "SRH",
+    "country": "India",
+    "runs": 2600,
+    "image": "https://linktoimage.com/mayank.jpg",
+    "role": "Batsman",
+    "salary": 92000000
+  },
+  {
+    "name": "Umran Malik",
+    "team": "SRH",
+    "country": "India",
+    "runs": 15,
+    "image": "https://linktoimage.com/umran.jpg",
+    "role": "Bowler",
+    "salary": 60000000
+  },
+  {
+    "name": "T Natarajan",
+    "team": "SRH",
+    "country": "India",
+    "runs": 30,
+    "image": "https://linktoimage.com/natarajan.jpg",
+    "role": "Bowler",
+    "salary": 68000000
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "team": "RR",
+    "country": "India",
+    "runs": 1500,
+    "image": "https://linktoimage.com/padikkal.jpg",
+    "role": "Batsman",
+    "salary": 70000000
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "team": "RR",
+    "country": "West Indies",
+    "runs": 1300,
+    "image": "https://linktoimage.com/hetmyer.jpg",
+    "role": "Batsman",
+    "salary": 88000000
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "team": "DC",
+    "country": "India",
+    "runs": 80,
+    "image": "https://linktoimage.com/kuldeep.jpg",
+    "role": "Bowler",
+    "salary": 79000000
+  },
+  {
+    "name": "Mitchell Marsh",
+    "team": "DC",
+    "country": "Australia",
+    "runs": 1250,
+    "image": "https://linktoimage.com/marsh.jpg",
+    "role": "All-rounder",
+    "salary": 99000000
+  },
+  {
+    "name": "Anrich Nortje",
+    "team": "DC",
+    "country": "South Africa",
+    "runs": 40,
+    "image": "https://linktoimage.com/nortje.jpg",
+    "role": "Bowler",
+    "salary": 85000000
+  },
+  {
+    "name": "Manish Pandey",
+    "team": "KKR",
+    "country": "India",
+    "runs": 3600,
+    "image": "https://linktoimage.com/pandey.jpg",
+    "role": "Batsman",
+    "salary": 82000000
+  },
+  {
+    "name": "Riyan Parag",
+    "team": "RR",
+    "country": "India",
+    "runs": 900,
+    "image": "https://linktoimage.com/parag.jpg",
+    "role": "All-rounder",
+    "salary": 60000000
+  },
+  {
+    "name": "Sarfaraz Khan",
+    "team": "DC",
+    "country": "India",
+    "runs": 850,
+    "image": "https://linktoimage.com/sarfaraz.jpg",
+    "role": "Batsman",
+    "salary": 58000000
+  },
+  {
+    "name": "Shikhar Dhawan",
+    "team": "PBKS",
+    "country": "India",
+    "runs": 6500,
+    "image": "https://linktoimage.com/dhawan.jpg",
+    "role": "Batsman",
+    "salary": 130000000
+  },
+  {
+    "name": "Krunal Pandya",
+    "team": "LSG",
+    "country": "India",
+    "runs": 1350,
+    "image": "https://linktoimage.com/krunal.jpg",
+    "role": "All-rounder",
+    "salary": 90000000
+  }
+]
