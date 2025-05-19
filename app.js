@@ -10,7 +10,7 @@ app.use(express.json());
 // MongoDB Connection using your provided URL
 mongoose
   .connect(
-    "mongodb://127.0.0.1:27017/ipl_management",
+    "mongodb+srv://asblaster100:testing12345@cluster0.opkvswq.mongodb.net/?retryWrites=true&w=majority",
     {
     }
   )
